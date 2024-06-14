@@ -4,8 +4,8 @@ enum Card {
     ACE_SPADES,
     TWO_SPADES,
     THREE_SPADES,
-    //
-
+    FOUR_SPADES,
+    FIVE_SPADES,
     ACE_HEARTS,
     TWO_HEARTS,
     THREE_HEARTS,
